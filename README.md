@@ -1,10 +1,10 @@
-### Hi there, I'm Pemidi - (Peyman Rashidi)  👋
+### Hi there, I'm Pemidi 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pemidi_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPemidi_dev&screen_name=pemidi_dev)
 
 ## I'm a Python Back-end developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning new stuff about software engineering 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love running
