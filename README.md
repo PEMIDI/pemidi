@@ -5,7 +5,7 @@
 ## I'm a Python Back-end developer!!
 
 - 🌱 I’m currently learning new stuff about software engineering 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love running
 
