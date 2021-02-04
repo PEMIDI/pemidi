@@ -1,6 +1,6 @@
 ### Hi there, I'm Pemidi 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/pemidi_dev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPemidi_dev&screen_name=pemidi_dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pemidi1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPemidi1&screen_name=pemidi1)
 
 ## I'm a Python Back-end developer!!
 
@@ -34,7 +34,7 @@
 
 [website]: https://virgool.io/@pemidi
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/Pemidi_dev
+[twitter]: https://twitter.com/Pemidi1
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/pemolini
 [linkedin]: https://linkedin.com/in/pemidi
