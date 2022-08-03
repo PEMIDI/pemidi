@@ -4,7 +4,7 @@ Hi 👋 My name is "Peyman Rashidi" as "Pemidi"
 Python Back-end Developer
 -------------------------
 
-* ✉️  You can contact me at [rashidi.peyman@gmail.com](mailto:rashidi.peyman@gmail.com)
+* ✉️  You can contact me at [rashidi.peyman@gmail.com](mailto:rashidi.peyman@gmail.com) or PM me in [Telegram](https://t.me/pemidi)
 * 🤝  I'm open to collaborating on Back-end Related Projects
 
 <a href="https://www.twitter.com/Pemidi1" target="_blank" rel="noreferrer"><img
