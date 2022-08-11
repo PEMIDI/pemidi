@@ -5,7 +5,7 @@ Python Back-end Developer
 -------------------------
 
 * ✉️  You can contact me at [rashidi.peyman@gmail.com](mailto:rashidi.peyman@gmail.com) or PM me in [Telegram](https://t.me/pemidi)
-* 🤝  I'm open to collaborating on Back-end Related Projects
+* 🤝  I'm open to collaborating on Back-End related Projects
 
 <a href="https://www.twitter.com/Pemidi1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Pemidi1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
