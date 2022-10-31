@@ -3,8 +3,8 @@
 * ✉️  You can contact me at [rashidi.peyman@gmail.com](mailto:rashidi.peyman@gmail.com) or PM me in [Telegram](https://t.me/pemidi)
 * 🤝  I'm open to collaborating on Back-End related Projects
 
-<a href="https://www.twitter.com/Pemidl1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Pemidl1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/PEMIDI1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/PEMIDI1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
