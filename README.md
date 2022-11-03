@@ -1,4 +1,4 @@
-
+## Originally a Computer geek, now a Software Developer
 
 * ✉️  You can contact me at [rashidi.peyman@gmail.com](mailto:rashidi.peyman@gmail.com) or PM me in [Telegram](https://t.me/pemidi)
 
