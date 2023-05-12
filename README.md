@@ -1,4 +1,4 @@
-## Originally a Computer Geek, now a Back-End Developer!
+##Originally a Computer Geek, now a Backend Developer. Trying to be a Software Engineer!
 
 * ✉️  You can contact me at [rashidi.peyman@gmail.com](mailto:rashidi.peyman@gmail.com) or PM me in [Telegram](https://t.me/pemidi)
 
