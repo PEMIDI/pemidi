@@ -29,6 +29,7 @@
 
 # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding State Machine in Python](https://pemidi.hashnode.dev/understanding-state-machine-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 
