@@ -32,6 +32,7 @@
 - [Understanding State Machine in Python](https://pemidi.hashnode.dev/understanding-state-machine-in-python)
 <!-- BLOG-POST-LIST:END -->
 
+<br>
 
 
 <b>My GitHub Stats</b>
