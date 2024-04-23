@@ -34,7 +34,8 @@
 
 <br>
 
+![Pemidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pemidi&&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
-<b>My GitHub Stats</b>
+<br>
 
 <a href="http://www.github.com/Pemidi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pemidi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
