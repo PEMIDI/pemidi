@@ -10,7 +10,7 @@
   </a>
   <br />
   <a href="https://github.com/ostadkar" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OstadKar-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="OstadKar GitHub" />
+    <img src="https://img.shields.io/badge/OstadKar-GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" alt="OstadKar GitHub" />
   </a>
   <p>Online marketplace for services in Iran</p>
 </div>
