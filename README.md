@@ -25,7 +25,6 @@
 ---
 
 ### 🚀 Skills & Technologies
-### Skills
 
 <div align="center">  
   
