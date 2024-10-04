@@ -2,18 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+PEMIDI!;As+a+Software+Engineer;" alt="Typing SVG" />
 </div>
 
-### Current Company
-
-<div align="center">
-  <a href="https://www.ostadkar.ir" target="_blank" rel="noreferrer">
-    <img src="https://play-lh.googleusercontent.com/U8Y9QWyio16TKYJzV9NFX_IojTeEfWoxML9g2K-8gK95EoTnraQ87mlHFiK9T6fr12s" alt="OstadKar" width="60" height="60" style="border-radius: 50%;" />
-  </a>
-  <br />
-  <a href="https://github.com/ostadkar" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/OstadKar-GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" alt="OstadKar GitHub" />
-  </a>
-  <p>Online marketplace for services in Iran</p>
-</div>
 
 
 
