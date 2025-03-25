@@ -24,6 +24,7 @@
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white) <!-- Updated to DRF with Django logo -->
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
   <!-- Databases -->
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,6 +48,7 @@
   <!-- Other Skills -->
   ![Network Engineering](https://img.shields.io/badge/Network%20Engineering-4A90E2?style=for-the-badge&logo=network&logoColor=white)
   ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-FF5722?style=for-the-badge&logo=tools&logoColor=white)
+
 </div>
 
 
