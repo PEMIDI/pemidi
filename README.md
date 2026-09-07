@@ -40,6 +40,8 @@
   ![Leaflet](https://img.shields.io/badge/Leaflet-03C03C?style=for-the-badge&logo=leaflet&logoColor=white)
   ![IOT](https://img.shields.io/badge/IoT-FF5722?style=for-the-badge&logo=internet-of-things&logoColor=white)
   ![APIMAN](https://img.shields.io/badge/APIMAN-00BFFF?style=for-the-badge&logo=api&logoColor=white)
+  ![Claude Code](https://img.shields.io/badge/Claude%20Code-8A2BE2?style=for-the-badge)
+  ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge)
 
   <!-- Testing and Review -->
   ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-FFA500?style=for-the-badge&logo=testing&logoColor=white)
